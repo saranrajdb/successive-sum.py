@@ -1,0 +1,1 @@
+# successive-sum.py
